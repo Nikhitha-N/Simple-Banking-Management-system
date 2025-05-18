@@ -1,0 +1,2 @@
+Date                             Credit      Debit     Balance
+[2022-02-23] [03:57:11]       10000              10000
