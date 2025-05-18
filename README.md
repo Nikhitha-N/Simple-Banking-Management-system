@@ -59,7 +59,7 @@ The **Simple Banking Management System** is a secure and user-friendly web appli
    https://github.com/Nikhitha-N/Simple-Banking-Management-system.git
    ```
 3. Navigate to the project directory
-4. Run the ipynb Notebook for analysis in jupyter notebook and vs code
+4. Run the python files for analysis in vs code
 
 --- 
 
