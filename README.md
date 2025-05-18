@@ -52,11 +52,11 @@ The **Simple Banking Management System** is a secure and user-friendly web appli
 ## Accessing the GitHub Repository
 1. Go to the **GitHub repository**:
    ```
-   [https://github.com/Nikhitha-N/cap5771sp25-project](https://github.com/Nikhitha-N/Simple-Banking-Management-system#)
+   https://github.com/Nikhitha-N/Simple-Banking-Management-system#
    ```
 2. Clone the repository:
    ```bash
-   [git clone https://github.com/Nikhitha-N/cap5771sp25-project.git](https://github.com/Nikhitha-N/Simple-Banking-Management-system.git)
+   https://github.com/Nikhitha-N/Simple-Banking-Management-system.git
    ```
 3. Navigate to the project directory
 4. Run the ipynb Notebook for analysis in jupyter notebook and vs code
