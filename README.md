@@ -47,9 +47,23 @@ The **Simple Banking Management System** is a secure and user-friendly web appli
 
 - 💸 Loan Management Integration  
 - 🧠 AI-Based Fraud Detection  
-- 😃 Face Recognition for Enhanced Authentication  
+- 😃 Face Recognition for Enhanced Authentication
 
+## Accessing the GitHub Repository
+1. Go to the **GitHub repository**:
+   ```
+   [https://github.com/Nikhitha-N/cap5771sp25-project](https://github.com/Nikhitha-N/Simple-Banking-Management-system#)
+   ```
+2. Clone the repository:
+   ```bash
+   [git clone https://github.com/Nikhitha-N/cap5771sp25-project.git](https://github.com/Nikhitha-N/Simple-Banking-Management-system.git)
+   ```
+3. Navigate to the project directory
+4. Run the ipynb Notebook for analysis in jupyter notebook and vs code
 
+--- 
+
+## Author
 - **Nagalla Nikhitha**  
   Email: naga20123.ad@rmkec.ac.in
 
